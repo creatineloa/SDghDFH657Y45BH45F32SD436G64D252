@@ -1,6 +1,3 @@
-API_ID = 26797338
-API_HASH = "a2ae45636ba5034a1b97d0eba3fc88c1"
-
 async def process_archive(archive_path: Path, session_folder: Path, temp_folder: Path):
     print(f"Processing archive {archive_path.name}...")
 
